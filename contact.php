@@ -1,14 +1,5 @@
 <?php 
 
-// Please specify your Mail Server - Example: mail.yourdomain.com.
-ini_set("SMTP","canavesio41@gmail.com");
-
-// Please specify an SMTP Number 25 and 8889 are valid SMTP Ports.
-ini_set("smtp_port","25");
-
-// Please specify the return address to use
-ini_set('sendmail_from', 'canavesio41@gmail.com');
-
 //======================================================================
 // Variables
 //======================================================================
